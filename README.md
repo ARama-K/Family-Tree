@@ -23,11 +23,11 @@ Language: Python
 
 Frameworks/Libraries:
 
-NetworkX for tree structure and visualization
+Graphwiz for tree structure and visualization
 
 Matplotlib for graphical rendering
 
-Storage: JSON or Database (if applicable)
+Storage: txt
 
 Prerequisites
 
